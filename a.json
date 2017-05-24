@@ -1,0 +1,350 @@
+{
+  "121 авиационный ремонтный завод": {
+    "description": "авиаремонтное предприятие, расположенное посёлке Старый Городокs",
+    "descriptionen": "aircraft repair facility, located in the village Stary Gorodok",
+    "nameen": "121 aircraft repair plant",
+    "qid": "Q4028573"
+  },
+  "360 авиационный ремонтный завод": {
+    "description": "авиаремонтный завод, расположенный в Рязани",
+    "descriptionen": "aircraft repair plant located in Ryazan",
+    "nameen": "360 aircraft repair plant",
+    "qid": "Q4031022"
+  },
+  "570-й авиационный ремонтный завод": {
+    "description": "авиаремонтное предприятие, расположенное в Ейске",
+    "descriptionen": "aircraft repair plant located in Yeisk",
+    "nameen": "570 aircraft repair plant",
+    "qid": "Q30034732"
+  },
+  "Авиаагрегат (Самара)": {
+    "description": "российское предприятие, занимающееся проектированием и производством шасси для самолётов",
+    "descriptionen": "classis design bureau and manufacturer in Russia",
+    "nameen": "Aviaagregat (Samara)",
+    "qid": "Q4055735"
+  },
+  "Авиакор": {
+    "description": "авиационный завод, расположенный в Самаре",
+    "descriptionen": "aviation plant located in Samara",
+    "nameen": "Aviakor",
+    "qid": "Q782912"
+  },
+  "Авиамоторный научно-технический комплекс «Союз»": {
+    "description": "российские предприятие по разработке и сопровождению двигателей для самолётов и ракет, расположенное в Москве",
+    "descriptionen": "engines design bureau and manufacturer, located in Russia",
+    "nameen": "Aviamotor Scientific and Technical Complex «Soyuz»",
+    "qid": "Q16495857"
+  },
+  "Авиастар": {
+    "description": "авиастроительный завод в Ульяновске",
+    "descriptionen": "aircraft plant in Ulyanovsk",
+    "nameen": "Aviastar-SP",
+    "qid": "Q4055810"
+  },
+  "Авиационный комплекс имени С. В. Ильюшина": {
+    "description": "предприятие по разработке авиационной техники, расположенное в Москве",
+    "descriptionen": "aircraft design bureau and manufacturer, located in Moscow",
+    "nameen": "Ilyushin",
+    "qid": "Q221419"
+  },
+  "Авитек": {
+    "description": "предприятие по изготовлению авиакомплектующих, расположенное в Кирове",
+    "descriptionen": "airframe manufacturer facility, located in Kirov",
+    "nameen": "Aviatek",
+    "qid": "Q4053916"
+  },
+  "Аэрокомпозит": {
+    "description": "предприятие по разработке авиакомплектующих, расположенное в Москве",
+    "descriptionen": "airframe design bureau and manufacturer, located in Moscow",
+    "nameen": "AeroComposit",
+    "qid": "Q4073637"
+  },
+  "Аэросила": {
+    "description": "фирма по разработке и производству авиационных агрегатов, расположенная в Ступино",
+    "descriptionen": "aviation aggregates design bureau and manufacturer, located in Stupino",
+    "nameen": "Aerosila",
+    "qid": "Q18212267"
+  },
+  "Воронежское акционерное самолётостроительное общество": {
+    "description": "авиастроительное предприятие в Воронеже",
+    "descriptionen": "company",
+    "nameen": "Voronezh Aircraft Production Association",
+    "qid": "Q392451"
+  },
+  "Гидроагрегат (предприятие)": {
+    "description": "предприятие по разработке, производству и испытаниям шасси и гидроагрегатов, расположенное в Павлово",
+    "descriptionen": "enterprise for development, production and testing of chassis and hydraulic units, located in Pavlovo",
+    "nameen": "Hidroagregat (facility)",
+    "qid": "Q4138055"
+  },
+  "Гидромаш (Нижний Новгород)": {
+    "description": "предприятие авиакосмической промышленности, расположенное в Нижнем Новгороде",
+    "descriptionen": "aerospace facility, located in Nijni Novgorod",
+    "nameen": "Hydromash",
+    "qid": "Q16253487"
+  },
+  "Долгопрудненское научно-производственное предприятие": {
+    "description": "производитель вооружений для средств ПВО, до 1971 было авиастроительным предприятием",
+    "descriptionen": "мanufacturer of weapons for air defense, until 1971 was an aircraft manufacturing company",
+    "nameen": "Dolgoprudnenskoe Scientific Production Plant",
+    "qid": "Q3704989"
+  },
+  "Дукс (завод)": {
+    "description": "самолётостроительный завод в Москве, также производил мотоциклы, автомобили, дирижабли",
+    "descriptionen": "Aircraft plant in Moscow, also produced motorcycles, cars, airships",
+    "nameen": "Dux Factory",
+    "qid": "Q726141"
+  },
+  "Завод аэропланов Анатра": {
+    "description": "авиазавод Российсой империи",
+    "descriptionen": "defunct aircraft manufacturer",
+    "nameen": "Anatra",
+    "qid": "Q2845666"
+  },
+  "Иркут (компания)": {
+    "description": "авиастроительная корпорация",
+    "descriptionen": "Russian aircraft manufacturer",
+    "nameen": "Irkut Corporation",
+    "qid": "Q420842"
+  },
+  "Иркутский авиационный завод": {
+    "description": " авиастроительное предприятие",
+    "descriptionen": "Russian aircraft manufacturer",
+    "nameen": "Irkutsk Aviation Plant",
+    "qid": "Q641230"
+  },
+  "Казанский авиационный завод имени С. П. Горбунова": {
+    "description": "предприятие авиационной промышленности России",
+    "descriptionen": "Russian aircraft manufacturer and aviation services company",
+    "nameen": "Kazan Aircraft Production Association",
+    "qid": "Q1105851"
+  },
+  "Казанский вертолётный завод": {
+    "description": "производитель вертолётов, расположенный в Казани",
+    "descriptionen": "helicopter manufacturer, located in Kazan",
+    "nameen": "Kazan Helicopters",
+    "qid": "Q1737487"
+  },
+  "Климов (компания)": {
+    "description": "разработчиков газотурбинных двигателей",
+    "descriptionen": "aircraft engine design bureau",
+    "nameen": "Klimov",
+    "qid": "Q1507207"
+  },
+  "Комсомольский-на-Амуре авиационный завод имени Ю. А. Гагарина": {
+    "description": "авиастроительное предприятие",
+    "descriptionen": "aerospace manufacturer",
+    "nameen": "Komsomolsk-on-Amur Aircraft Production Association",
+    "qid": "Q420843"
+  },
+  "Кузнецов (компания)": {
+    "description": "российская машиностроительная компания",
+    "descriptionen": "Russian aviation and space propulsion manufacturing company",
+    "nameen": "NK Engines Company",
+    "qid": "Q3787525"
+  },
+  "Лепсе (завод)": {
+    "description": "российское предприятие по изготовлению электрооборудования",
+    "descriptionen": "Russian enterprise for the manufacture of electrical equipment",
+    "nameen": "Lepse (factory)",
+    "qid": "Q4259183"
+  },
+  "МиГ (компания)": {
+    "description": "российская авиастроительная компания, расположенное в Москве",
+    "descriptionen": "aircraft designer and manufacturer, located in Moscow",
+    "nameen": "Mikoyan",
+    "qid": "Q188508"
+  },
+  "Молния (НПО)": {
+    "description": "российское предприятие по разработке, производству и модернизации систем управления и зажигания для двигателей летательных аппаратов",
+    "descriptionen": "Russian scientific and production enterprise",
+    "nameen": "NPO Molniya",
+    "qid": "Q1970265"
+  },
+  "Молния (УНПП)": {
+    "description": "российское предприятие по разработке электронных систем автоматического управления двигателей летательных аппаратов",
+    "descriptionen": "Russian scientific and production enterprise",
+    "nameen": "UNPP Molniya",
+    "qid": "Q28667430"
+  },
+  "Московский вертолётный завод имени М. Л. Миля": {
+    "description": "авиационное предприятие, занимающееся разработкой вертолетов",
+    "descriptionen": "aerospace manufacturer in Russia",
+    "nameen": "Mil Moscow Helicopter Plant",
+    "qid": "Q898825"
+  },
+  "Московский институт электромеханики и автоматики": {
+    "description": "российское предприятие по разработке авиационных приборов, систем навигации и управления",
+    "descriptionen": "Russian enterprise for the development of aircraft instruments, navigation and control systems",
+    "nameen": "Moscow Institute of Electromechanics and Automation",
+    "qid": "Q4304153"
+  },
+  "Московский машиностроительный завод «Вперёд»": {
+    "description": "промышленное предприятие по производству рулевых винтов для вертолётов и лопастей к ним",
+    "descriptionen": "industrial enterprise for the production of steering screws for helicopters and blades to them",
+    "nameen": "Moscow Machine Building Plant «Vpered»",
+    "qid": "Q16678068"
+  },
+  "НПП «Темп» имени Ф. Короткова": {
+    "description": "предприятие оборонно-промышленного комплекса России, расположенное в Москве",
+    "descriptionen": "The enterprise of a defensive-industrial complex of Russia, located in Moscow",
+    "nameen": "NPP «Temp» named after F. Korotkov",
+    "qid": "Q24933741"
+  },
+  "НПЦ газотурбостроения «Салют»": {
+    "description": "авиационная моторостроительная компания, расположенная в Москве",
+    "descriptionen": "Aircraft engine-building company located in Moscow.",
+    "nameen": "NPC of gas turbine construction «Salut»",
+    "qid": "Q1949319"
+  },
+  "Новосибирский авиационный завод имени В. П. Чкалова": {
+    "description": "российская авиастроительная компания, расположенная в Новосибирске",
+    "descriptionen": "airplane",
+    "nameen": "Novosibirsk Aircraft Production Association",
+    "qid": "Q421005"
+  },
+  "Объединённая авиастроительная корпорация": {
+    "description": "российское публичное акционерное общество, объединяющее крупнейшие авиастроительные предприятия России",
+    "descriptionen": "Russian public joint-stock company uniting the largest aircraft building enterprises of Russia",
+    "nameen": "United Aircraft Corporation",
+    "qid": "Q1136226"
+  },
+  "Отдел морского опытного самолётостроения при заводе «Красный лётчик»": {
+    "description": "авиационное конструкторское бюро, расположенное в Ленинграде",
+    "descriptionen": "Soviet aviation design bureau, located in Leningrad",
+    "nameen": "Department of marine pilot aircraft at the factory «Krasny letchik»",
+    "qid": "Q30034750"
+  },
+  "Пермский моторный завод": {
+    "description": "машиностроительная компания, производитель авиадвигателей",
+    "descriptionen": "Engineering company, aircraft engine manufacturer",
+    "nameen": "Perm Engine Plant",
+    "qid": "Q2071473"
+  },
+  "Пермский моторостроительный комплекс": {
+    "description": "группа предприятий в Перми, выполняющих разработку, авиационных и ракетных двигателей",
+    "descriptionen": "group of enterprises in Perm that develop aircraft and rocket engines",
+    "nameen": "Perm engine building complex",
+    "qid": "Q4351548"
+  },
+  "Полёт (предприятие)": {
+    "description": "машиностроительное предприятие в России",
+    "descriptionen": "Russian aerospace engineering company",
+    "nameen": "Production Corporation Polyot",
+    "qid": "Q4353596"
+  },
+  "Прогресс (авиационный завод, Арсеньев)": {
+    "description": "авиационный завод в городе Арсеньев (Россия)",
+    "descriptionen": "aviation plant in Arsenyev (Russia)",
+    "nameen": "Progress (aviation plant, Arseniev)",
+    "qid": "Q1703413"
+  },
+  "Роствертол": {
+    "description": "российская авиастроительная компания, расположенная в Ростове-на-Дону",
+    "descriptionen": "Russian aircraft building company, located in Rostov-on-Don",
+    "nameen": "Rostvertol",
+    "qid": "Q1027577"
+  },
+  "Рубин (авиационная корпорация)": {
+    "description": "разработчик и изготовитель взлётно-посадочных устройств, гидроагрегатов и гидросистем самолетов",
+    "descriptionen": "Developer and manufacturer of airstrips, hydrounits and hydraulic systems of aircraft",
+    "nameen": "Rubin (Aviation Corporation)",
+    "qid": "Q20021000"
+  },
+  "Русско-Балтийский вагонный завод": {
+    "description": "машиностроительное предприятие Российской империи",
+    "descriptionen": "Machine-building enterprise of the Russian Empire",
+    "nameen": "Russo-Balt",
+    "qid": "Q2177339"
+  },
+  "Саратовский авиационный завод": {
+    "description": "бывшее авиастроительное предприятие в Саратове",
+    "descriptionen": "former Russian/Soviet aircraft production facility, located in Saratov, Russia",
+    "nameen": "Saratov Aviation Plant",
+    "qid": "Q4408460"
+  },
+  "Сатурн (НПО)": {
+    "description": "двигателестроительная компания, расположенная в Рыбинске",
+    "descriptionen": "Engine-building company, located in Rybinsk",
+    "nameen": "NPO Saturn",
+    "qid": "Q1961355"
+  },
+  "Смоленский авиационный завод": {
+    "description": "авиастроительное предприятие",
+    "descriptionen": "aircraft manufacturer",
+    "nameen": "Smolensk Aviation Plant",
+    "qid": "Q734775"
+  },
+  "Сокол (авиастроительный завод)": {
+    "description": "авиастроительная компания",
+    "descriptionen": "aircraft manufacturer",
+    "nameen": "Sokol",
+    "qid": "Q1572992"
+  },
+  "Ступинское машиностроительное производственное предприятие": {
+    "description": "предприятие по выпуску несущих систем вертолетов",
+    "descriptionen": "facility for production of helicopter carrier systems",
+    "nameen": "Stupino Machine-Building Production Enterprise",
+    "qid": "Q16702724"
+  },
+  "Сухой (компания)": {
+    "description": "российская авиастроительная компания",
+    "descriptionen": "Russian aircraft manufacturer",
+    "nameen": "Sukhoi",
+    "qid": "Q193007"
+  },
+  "Таганрогская авиация": {
+    "description": "авиастроительное предприятие, расположенное в Таганроге",
+    "descriptionen": "aircraft building facility located in Taganrog",
+    "nameen": "Taganrog aviation",
+    "qid": "Q4449551"
+  },
+  "Таганрогский авиационный научно-технический комплекс имени Г. М. Бериева": {
+    "description": "российское авиастроительное предприятие, расположенное в Таганроге",
+    "descriptionen": "Russian Aircraft Company",
+    "nameen": "Beriev",
+    "qid": "Q642622"
+  },
+  "Техноавиа": {
+    "description": "российская авиастроительная компания, основное производство находится на Смоленском авиационном заводе",
+    "descriptionen": "aircraft design company, main production is located at Smolensk Aviation Plant",
+    "nameen": "Technoavia",
+    "qid": "Q4456865"
+  },
+  "Туполев (конструкторское бюро)": {
+    "description": "советское и российское авиационное конструкторское бюро",
+    "descriptionen": "Soviet and Russian aerospace and defence company",
+    "nameen": "Tupolev",
+    "qid": "Q194009"
+  },
+  "Тюменские моторостроители": {
+    "description": "машиностроительное предприятие, расположенное в Тюменской области",
+    "descriptionen": "machine-building enterprise located in the Tyumen region",
+    "nameen": "Tyumen motostroiteli",
+    "qid": "Q24934462"
+  },
+  "Улан-Удэнский авиационный завод": {
+    "description": "авиационный завод, расположенный в городе Улан-Удэ",
+    "descriptionen": "Russian joint-stock company specializing in aircraft manufacturing",
+    "nameen": "Ulan-Ude Aviation Plant",
+    "qid": "Q392438"
+  },
+  "Ульяновский авиационно-промышленный комплекс": {
+    "description": "предприятие производящее грузовые и пассажирские самолеты",
+    "descriptionen": "enterprise manufacturing cargo and passenger aircraft",
+    "nameen": "Ulyanovsk Aviation Industrial Complex",
+    "qid": "Q4475188"
+  },
+  "Уфимское моторостроительное производственное объединение": {
+    "description": "производитель авиационных двигателей",
+    "descriptionen": "aircraft engines manufacturer",
+    "nameen": "Ufa Engine Building Production Association",
+    "qid": "Q4479133"
+  },
+  "ЭНИКС": {
+    "description": "российская компания, занимающаяся разработкой бпла, автономных радионавигационных систем и гиростабилизированных оптических систем, расположенная в Казани",
+    "descriptionen": "Russian company develop of UAV, autonomous radio navigation systems and gyrostabilized optical systems, located in Kazan",
+    "nameen": "ENIKS",
+    "qid": "Q4529452"
+  }
+}
