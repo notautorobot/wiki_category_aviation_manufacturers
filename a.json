@@ -162,8 +162,8 @@
     "qid": "Q1970265"
   },
   "Молния (УНПП)": {
-    "description": "российское предприятие по разработке электронных систем автоматического управления двигателей летательных аппаратов",
-    "descriptionen": "Russian scientific and production enterprise",
+    "description": "предприятие по разработке электронных систем автоматического управления двигателей летательных аппаратов, расположенноев Уфе",
+    "descriptionen": "scientific and production enterprise, located in Ufa",
     "nameen": "UNPP Molniya",
     "qid": "Q28667430"
   },
@@ -204,8 +204,8 @@
     "qid": "Q421005"
   },
   "Объединённая авиастроительная корпорация": {
-    "description": "российское публичное акционерное общество, объединяющее крупнейшие авиастроительные предприятия России",
-    "descriptionen": "Russian public joint-stock company uniting the largest aircraft building enterprises of Russia",
+    "description": "публичное акционерное общество, объединяющее крупнейшие авиастроительные предприятия России",
+    "descriptionen": "public joint-stock company uniting the largest aircraft building enterprises of Russia",
     "nameen": "United Aircraft Corporation",
     "qid": "Q1136226"
   },
@@ -342,8 +342,8 @@
     "qid": "Q4479133"
   },
   "ЭНИКС": {
-    "description": "российская компания, занимающаяся разработкой бпла, автономных радионавигационных систем и гиростабилизированных оптических систем, расположенная в Казани",
-    "descriptionen": "Russian company develop of UAV, autonomous radio navigation systems and gyrostabilized optical systems, located in Kazan",
+    "description": "компания, занимающаяся разработкой бпла, автономных радионавигационных систем и гиростабилизированных оптических систем, расположенная в Казани",
+    "descriptionen": "company develop of UAV, autonomous radio navigation systems and gyrostabilized optical systems, located in Kazan",
     "nameen": "ENIKS",
     "qid": "Q4529452"
   }
